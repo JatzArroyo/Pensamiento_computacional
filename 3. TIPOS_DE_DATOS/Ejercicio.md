@@ -11,7 +11,7 @@ Float
 
 CARACTER : 
 
-      Chair
+      Char
 
 CADENA DE CARACTERES : 
 
