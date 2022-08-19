@@ -29,12 +29,19 @@ X = (100/5^2 + 1) + 11 * 3
 
 X = ((8-6)^2*3)^3.
 
-      TU RESPUESTA AQUI
+     x= ((8-6) 4*3)^3
+     x= ((8-6) 12)^3
+     x= ((8-6) 36
+     x= ((2) 36
+     
 
 x = ((8+5) *4) * (10-6)/4) 
 
       x= ((13) * 4) * (10-6)/4)
-      x= ((52) *
+      x= ((52) * (10-6)/4)
+      x= ((52) * (4)/4)
+      x= ((52) * (1)
+      x= 52
 
 ## OPERADORES RELACIONALES
 Reto. Una empresa de logística ofrece a sus trabajadores un bono de
@@ -52,7 +59,7 @@ resuelve:
 “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es
 mayor que “F”. ¿Cuál es el menor de todos?
 
-      TU RESPUESTA AQUI
+      G
 
 3^2 – (10/(8-4))+9 > 100 
 
@@ -60,8 +67,8 @@ mayor que “F”. ¿Cuál es el menor de todos?
 
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha (FALSO O VERDADERO).
-1) (45<120 OR 12<120) =
-2) (6! =6) && (12>22)) =
-3) ¬ (128<145 && 12>9) =
-4) “Daniela”< >”DANIELA” =
-5) 10*20< >210 =
+1) (45<120 OR 12<120) = Falso
+2) (6! =6) && (12>22)) = Falso
+3) ¬ (128<145 && 12>9) = Verdadero
+4) “Daniela”< >”DANIELA” = Verdadero
+5) 10*20< >210 = Verdadero
