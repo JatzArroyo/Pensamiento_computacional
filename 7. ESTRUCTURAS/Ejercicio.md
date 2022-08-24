@@ -8,6 +8,9 @@
         6. Asignar número 2
         7. SI (numero1 > numero2) ENTONCES mostrar (número1  " es mayor a ", numero2) SINO mostrar (numero 2 " es mayor a " , número2)
         8. Fin
+
+![imagen](https://user-images.githubusercontent.com/111446254/186459895-be094048-e247-4858-a473-ec601b3a2343.png)
+
         
 2. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
 
